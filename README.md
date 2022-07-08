@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> I'm Sangam Choudhary</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Sangamchoudhary)
+- 👨‍💻 All of my projects are available at [https://github.com/Sangamchoudhary](https://github.com/Sangamchoudhary)
 
 <!-- - 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784) -->
 
