@@ -30,12 +30,12 @@ My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm f
 </a>
 
 <a href="https://github.com/Sangamchoudhary/ShopKart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangamChoudhary&repo=ShopKart-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangamChoudhary&repo=ShopKart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/Sangamchoudhary/AsteroidBlaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangamChoudhary&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangamChoudhary&repo=AsteroidBlaster&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
