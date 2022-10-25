@@ -68,7 +68,7 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: twitter link
+[1]: https://twitter.com
 [2]: https://github.com/Sangamchoudhary/
 [3]: [https://www.linkedin.com/in/sangamchoudhary-a909661b0/](https://www.linkedin.com/in/sangamchoudhary-a909661b0/)
 
