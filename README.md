@@ -8,7 +8,7 @@ My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm f
 
 ## Technology Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-Primary%20Language-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
 ![HTML](https://img.shields.io/badge/Html-Web%20Development-blue)
