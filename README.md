@@ -70,7 +70,7 @@ A sample of my recent articles:
 
 [1]: https://twitter.com
 [2]: https://github.com/Sangamchoudhary/
-[3]: [https://www.linkedin.com/in/sangamchoudhary-a909661b0/](https://www.linkedin.com/in/sangamchoudhary-a909661b0/)
+[3]: [https://www.linkedin.com/in/heinz-martin/](https://www.linkedin.com/in/sangamchoudhary-a909661b0/)
 
 
 <!-- Resources -->
