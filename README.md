@@ -11,7 +11,7 @@ My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm f
 ![C++](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
-![HTML](https://img.shields.io/badge/Html-Web%20Development-blue) ![CSS](https://img.shields.io/badge/CSS-Web%20Development-pink) ![React.js](https://img.shields.io/badge/React.js-Web%20Development-blue)
+![HTML](https://img.shields.io/badge/Html-Web%20Development-blue) ![CSS](https://img.shields.io/badge/CSS-Web%20Development-pink) ![React.js](https://img.shields.io/badge/React.js-Web%20Development-blue) ![Angular.js](https://img.shields.io/badge/Angular-Web%20development-red)
 
 ![Node.js](https://img.shields.io/badge/Node.js-Web%20Development-success)
 ![Express.js](https://img.shields.io/badge/Express.js-Web%20Development-yellow)
