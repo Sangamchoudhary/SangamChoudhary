@@ -13,8 +13,7 @@ My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm f
 
 ![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![React.js](https://img.shields.io/badge/React.js-Frontend-blue) ![Angular.js](https://img.shields.io/badge/Angular-Frontend-red)
 
-![Node.js](https://img.shields.io/badge/Node.js-Web%20Development-success)
-![Express.js](https://img.shields.io/badge/Express.js-Web%20Development-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-success) ![Express.js](https://img.shields.io/badge/Express.js-Backend-yellow)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
