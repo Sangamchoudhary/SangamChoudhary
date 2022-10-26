@@ -5,7 +5,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm from India, living in Delhi. 
-You can find me on [Linkedin][3] and ![![](https://img.shields.io/badge/Sangam%20Choudhary-Portfolio-red)](https://sangam-choudhary-portfolio.netlify.app/).
+You can find me on [Linkedin][3] and ![1.2](https://sangam-choudhary-portfolio.netlify.app/).
 
 ## Technology Stack
 
@@ -48,7 +48,7 @@ You can find me on [Linkedin][3] and ![![](https://img.shields.io/badge/Sangam%2
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://img.shields.io/badge/Sangam%20Choudhary-Portfolio-red
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
