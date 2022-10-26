@@ -51,7 +51,7 @@ My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm f
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
+ 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
