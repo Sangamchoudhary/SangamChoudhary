@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm from India, living in Delhi. You can find me on [![LinkedIn][3.2]][3].
+My name is Sangam Choudhary and I'm currently a 4th year B.Tech undergrad. I'm from India, living in Delhi. You can find me on ![Linkedin][3].
 
 ## Technology Stack
 
