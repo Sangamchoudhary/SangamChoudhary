@@ -11,7 +11,7 @@ You can find me on [Linkedin][3] and [my potfolio][1].
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![JavaScript](https://img.shields.io/badge/Data%20Structures%20and%20Algorithm-Progamming-orange)](yo)
+[![JavaScript](https://img.shields.io/badge/Data%20Structures%20and%20Algorithm-Progamming-orange)]
 
 ![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![React.js](https://img.shields.io/badge/React.js-Frontend-blue) ![Angular.js](https://img.shields.io/badge/Angular-Frontend-red)
 
